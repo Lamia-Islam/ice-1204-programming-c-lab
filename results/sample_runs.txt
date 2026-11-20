@@ -1,0 +1,80 @@
+=== mof-sir-lab/lab10.c  (input: 7 3 9 4 2 5 6 8 1 10)
+Enter a string: 7 is a palindrome
+
+=== mof-sir-lab/lab12.c  (input: 7 3 9 4 2 5 6 8 1 10)
+Enter information of students:
+
+For roll number 1,
+Enter name: Enter mark: 
+For roll number 2,
+Enter name: Enter mark: 
+For roll number 3,
+Enter name: Enter mark: 
+For roll number 4,
+Enter name: Enter mark: 
+For roll number 5,
+Enter name: Enter mark: 
+Displaying Information:
+
+Roll number: 1
+
+=== mof-sir-lab/lab13.c  (input: 7 3 9 4 2 5 6 8 1 10)
+Enter your name: Enter your roll: File created successfully
+
+=== mof-sir-lab/lab14.c  (input: 7 3 9 4 2 5 6 8 1 10)
+Name: 7
+Roll: 3
+
+=== mof-sir-lab/lab15.c  (input: 7 3 9 4 2 5 6 8 1 10)
+Enter two integers: The GCD of 7 and 3 is 1
+
+=== mof-sir-lab/lab16.c  (input: 7 3 9 4 2 5 6 8 1 10)
+Enter the number of rows and columns: Enter elements of the first matrix:
+Enter elements of the second matrix:
+Sum of the matrices:
+841 836 2097756338 
+32771 2097756346 32774 
+1282924591 22002 1 
+0 1530991264 21992 
+0 0 0 
+0 255 255 
+0 0 791621423 
+
+=== mof-sir-lab/lab2.c  (input: 7 3 9 4 2 5 6 8 1 10)
+Enter height and weight of rectangle 
+Area of the rectangle id : 21
+=== mof-sir-lab/lab3.c  (input: 7 3 9 4 2 5 6 8 1 10)
+Enter a number
+The number is ODD
+
+=== mof-sir-lab/lab6.c  (input: 7 3 9 4 2 5 6 8 1 10)
+Enter the elements : 
+The elements in reverse order are :
+2 4 9 3 7 
+=== mof-sir-lab/lab7.c  (input: 7 3 9 4 2 5 6 8 1 10)
+Enter 5 elements: Sorted array in ascending order: 2 3 4 7 9 
+
+=== mof-sir-lab/lab8.c  (input: 7 3 9 4 2 5 6 8 1 10)
+Factorial of 7 is : 5040
+
+=== mof-sir-lab/lab9.c  (input: 7 3 9 4 2 5 6 8 1 10)
+Enter three numbers: Largest = 9
+=== coding-practice/Copycat.c  (input: 7 3 9 4 2 5 6 8 1 10)
+7
+=== coding-practice/gp.c  (input: 7 3 9 4 2 5 6 8 1 10)
+Enter the number of students: 
+Student 1:
+Enter student name: Enter roll number: Enter marks of subject 1: Enter marks of subject 2: Enter marks of subject 3: Enter marks of subject 4: Enter marks of subject 5: 
+Student 2:
+Enter student name: Enter roll number: Enter marks of subject 1: Enter marks of subject 2: Enter marks of subject 3: Enter marks of subject 4: Enter marks of subject 5: 
+Student 3:
+Enter student name: Enter roll number: Enter marks of subject 1: Enter marks of subject 2: Enter marks of subject 3: Enter marks of subject 4: Enter marks of subject 5: 
+Student 4:
+Enter student name: Enter roll number: Enter marks of subject 1: Enter marks of subject 2: Enter marks of subject 3: Enter marks of subject 4: Enter marks of subject 5: 
+Student 5:
+Enter student name: Enter roll number: Enter marks of subject 1: Enter marks of subject 2: Enter marks of subject 3: Enter marks of subject 4: Enter marks of subject 5: 
+Student 6:
+Enter student name: Enter roll number: Enter marks of subject 1: Enter marks of subject 2: Enter marks of subject 3: Enter marks of subject 4: Enter marks of subject 5: 
+Student 7:
+Enter student name: Enter roll number: Enter marks of subject 1: Enter marks of subject 2: Enter marks of subject 3: Enter marks of subject 4: Enter marks of subject 5: 
+

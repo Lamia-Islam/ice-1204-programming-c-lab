@@ -1,0 +1,44 @@
+--- run mof-sir-lab/lab1.c
+Hello,World![ok-compiled, needs input] mof-sir-lab/lab10.c
+--- run mof-sir-lab/lab11.c
+Addition: 15
+Subtraction: 5
+Multiplication: 50
+Division: 2.00
+[ok-compiled, needs input] mof-sir-lab/lab12.c
+[ok-compiled, needs input] mof-sir-lab/lab13.c
+[ok-compiled, needs input] mof-sir-lab/lab14.c
+[ok-compiled, needs input] mof-sir-lab/lab15.c
+[ok-compiled, needs input] mof-sir-lab/lab16.c
+[ok-compiled, needs input] mof-sir-lab/lab2.c
+[ok-compiled, needs input] mof-sir-lab/lab3.c
+--- run mof-sir-lab/lab4.c
+The numbers from 10 to 100 are :
+10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 --- run mof-sir-lab/lab5.c
+* 
+* * 
+* * * 
+* * * * 
+[ok-compiled, needs input] mof-sir-lab/lab6.c
+[ok-compiled, needs input] mof-sir-lab/lab7.c
+[ok-compiled, needs input] mof-sir-lab/lab8.c
+[ok-compiled, needs input] mof-sir-lab/lab9.c
+--- run mof-sir-lab/tempCodeRunnerFile.c
+Hello,World![ok-compiled, needs input] coding-practice/Copycat.c
+--- run coding-practice/Hello_World.c
+ICE
+110 
+[ok-compiled, needs input] coding-practice/gp.c
+/usr/bin/ld: /usr/lib/gcc/x86_64-linux-gnu/11/../../../x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x1b): undefined reference to `main'
+collect2: error: ld returned 1 exit status
+[COMPILE FAIL] coding-practice/qaqjg.c
+coding-practice/ik.cpp: In function ‘int main()’:
+coding-practice/ik.cpp:10:16: error: too many arguments to function ‘int sum()’
+   10 |     int c = sum(x,y);
+      |             ~~~^~~~~
+coding-practice/ik.cpp:2:5: note: declared here
+    2 | int sum();
+      |     ^~~
+[COMPILE FAIL] coding-practice/ik.cpp
+[ok-compiled] coding-practice/new.cpp
